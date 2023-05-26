@@ -11,7 +11,7 @@ export const Golf = () => {
       </ImageWrapper>
       <ImageWrapper width="300px">
         <pre>Image added to public folder</pre>
-        <Image src="driver.jpg" alt="Driver" />
+        <Image src="./driver.jpg" alt="Driver" />
       </ImageWrapper>
     </Wrapper>
   );
